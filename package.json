@@ -1,0 +1,12 @@
+{
+  "name": "@tessin/request",
+  "version": "1.0.0",
+  "description": "Promise based request/response messaging over HTTP/HTTPS (primarily for sending/receiving JSON payloads)",
+  "main": "index.js",
+  "author": "Tessin Nordic AB",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=7"
+  }
+}
